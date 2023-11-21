@@ -1,0 +1,21 @@
+{
+  "name": "standprof.playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.9.2",
+    "cucumber-html-reporter": "^7.1.1",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^10.0.1"
+  }
+}
