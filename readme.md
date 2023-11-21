@@ -13,7 +13,7 @@
 	```	
 - Restart Vs Code. Now you will be able to use Cucumber.
 
-## Reporting
+## Commands
 - To run tests, run:
 
    `npx cucumber-js`
@@ -24,3 +24,4 @@
 
 #### References
 https://www.npmjs.com/package/cucumber-html-reporter
+
