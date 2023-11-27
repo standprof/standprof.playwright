@@ -1,5 +1,5 @@
 # Overview
-This is a basic test framework, written using TypeScript and Playwright. It has a few UI tests for www.standprof.co.uk.
+This is a basic test framework, written using TypeScript, Playwright, Cucumber and Page Objects. It has a few UI tests for www.standprof.co.uk.
 
 # Setup
 ## Configure Cucumber in VS Code
