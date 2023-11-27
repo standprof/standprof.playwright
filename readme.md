@@ -1,4 +1,7 @@
+# Overview
+This is a basic test framework, written using TypeScript and Playwright. It has a few UI tests for www.standprof.co.uk.
 
+# Setup
 ## Configure Cucumber in VS Code
 
 - Install the extension [Cucumber for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=CucumberOpen.cucumber-official)
@@ -13,7 +16,7 @@
 	```	
 - Restart Vs Code. Now you will be able to use Cucumber.
 
-## Commands
+# Commands
 - To run tests, run:
 
    `npx cucumber-js`
@@ -22,6 +25,6 @@
   
   `node report.js`
 
-#### References
+## References
 https://www.npmjs.com/package/cucumber-html-reporter
 
